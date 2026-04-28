@@ -45,7 +45,7 @@ void mergeSorting(vector<int> &arr , int low , int high){
 }
 int main(){
 
-    vector<int> arr  =  {3,1,2,9,6,8,1,3,7,8,6,0,0,4,5};
+    vector<int> arr  =  {-2,1,-3,4,-1,2,1,-5,4};
 
     cout<< " Welcome to the Merge sort " << endl  ;
 
