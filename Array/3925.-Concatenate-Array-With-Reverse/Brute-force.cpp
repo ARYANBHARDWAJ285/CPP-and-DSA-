@@ -3,10 +3,9 @@ Time Complexity: O(n)
 - First loop runs n times.
 - Second loop also runs n times.
 - Total = O(2n) → O(n)
-
 Space Complexity: O(n)
-- Extra vector 'result' stores 2n elements.
 */
+
 
 #include <iostream>
 #include <vector>
